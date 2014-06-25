@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Edited
+=======
+Edited, Edit, Edit, Edited , Edite
+>>>>>>> e3a6ee778c6ee76beb675ef31cc4b40034c8769c
